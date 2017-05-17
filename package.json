@@ -1,4 +1,19 @@
 {
-  "name": "local-extension",
-  "repository": "git@github.com:j24/backend-extension-dokime-local.git"
+  "name": "@j24/backend-extension-dokime",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j24-test/backend-extension-dokime.git"
+  },
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/j24-test/backend-extension-dokime/issues"
+  },
+  "homepage": "https://github.com/j24-test/backend-extension-dokime#readme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED"
 }
